@@ -1,0 +1,1 @@
+# Handwritten-Digit-Recognition-Using-HOG-Pixel-Intensity-and-SVM
