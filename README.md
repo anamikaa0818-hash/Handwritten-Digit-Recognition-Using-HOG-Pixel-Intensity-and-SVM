@@ -23,3 +23,5 @@ To measure how accurately the model predicts handwritten digits using evaluation
 
 ## Contributor
 - Anu Gopal V
+- Anamika A
+- Ardra V S
