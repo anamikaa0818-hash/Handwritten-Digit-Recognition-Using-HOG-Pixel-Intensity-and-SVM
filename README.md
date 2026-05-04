@@ -1,4 +1,3 @@
-# Handwritten-Digit-Recognition-Using-HOG-Pixel-Intensity-and-SVM
 
 # Feature Extraction - Handwritten Digit Recognition
 
