@@ -26,3 +26,5 @@ To build a classification model that can accurately recognize handwritten digits
 
 ## Contributor
 - Anu Gopal V
+- Anamika A
+- Ardra V S
