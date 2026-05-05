@@ -98,9 +98,53 @@ The following metrics were used:
 - HOG features improved classification by capturing structural patterns of digits.
 - SVM and Logistic Regression also showed strong performance.
 
+  ### 📊 Visual Evaluation
+
+#### Confusion Matrix
+![Confusion Matrix](data/confusion_matrices.png)
+
+#### Per Digit Accuracy
+![Per Digit Accuracy](data/per_digit_accuracy.png)
+
+  
+
 ### Conclusion
 KNN was the best-performing model for this dataset, achieving the highest accuracy, while other models also provided competitive results.
 
 
 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   app deployed : https://handwritten-digit-recognition-duk.streamlit.app/
