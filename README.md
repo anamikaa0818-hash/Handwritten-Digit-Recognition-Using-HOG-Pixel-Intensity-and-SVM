@@ -1,7 +1,5 @@
 # Handwritten-Digit-Recognition-Using-HOG-Pixel-Intensity-and-SVM
 
-# Handwritten Digit Recognition Using HOG, Pixel Intensity and SVM
-
 ## 👥 Team Members
 - Anu Gopal V (Msc Data Science and Bio Ai)
 - Anamika A
