@@ -115,6 +115,25 @@ The following metrics were used:
 ### Conclusion
 KNN was the best-performing model for this dataset, achieving the highest accuracy, while other models also provided competitive results.
 
+## 🚀 Deployment
+
+The trained handwritten digit recognition model has been deployed using **Streamlit**, enabling real-time predictions through an interactive web interface.
+
+
+### 💡 Features
+- Upload handwritten digit images (PNG/JPG)
+- Choose different machine learning models (KNN, SVM, Logistic Regression, Random Forest)
+- View processed image used for prediction
+- Get real-time digit classification results
+
+## 📸 Application Screenshots
+
+### 🖥️ App Interface
+![App Interface](data/streamlit_app.png)
+
+### 🔍 Prediction Result
+![Prediction Result](data/streamlit_result.png)
+
 
 
  
@@ -123,32 +142,4 @@ KNN was the best-performing model for this dataset, achieving the highest accura
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  app deployed : https://handwritten-digit-recognition-duk.streamlit.app/
+ app deployed : https://handwritten-digit-recognition-duk.streamlit.app/
