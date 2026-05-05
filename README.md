@@ -98,13 +98,17 @@ The following metrics were used:
 - HOG features improved classification by capturing structural patterns of digits.
 - SVM and Logistic Regression also showed strong performance.
 
-  ### 📊 Visual Evaluation
+### 📊 Visual Evaluation
 
 #### Confusion Matrix
 ![Confusion Matrix](data/confusion_matrices.png)
 
 #### Per Digit Accuracy
 ![Per Digit Accuracy](data/per_digit_accuracy.png)
+
+### Model Comparison (Bar Chart)
+
+![Model Comparison](data/model_comparison_bars.png)
 
   
 
