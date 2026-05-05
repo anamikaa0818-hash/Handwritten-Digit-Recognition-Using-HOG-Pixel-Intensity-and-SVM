@@ -2,8 +2,8 @@
 
 ## 👥 Team Members
 - Anu Gopal V (Msc Data Science and Bio Ai)
-- Anamika A
-- Ardra VS
+- Anamika A (Msc Computer Science Specialization in Data Analytics)
+- Ardra VS (Msc Data Analytics and Computational Science)
 
 ## 📌 Problem Statement
 
