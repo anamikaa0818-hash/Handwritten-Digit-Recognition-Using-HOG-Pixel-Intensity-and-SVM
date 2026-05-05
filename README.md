@@ -134,12 +134,31 @@ The trained handwritten digit recognition model has been deployed using **Stream
 ### 🔍 Prediction Result
 ![Prediction Result](data/streamlit_result.png)
 
+## ▶️ Instructions for Setting Up and Running the Project Locally
 
+Follow the steps below to set up and run the project on your local machine:
 
- 
-  
-  
-  
-  
-  
+### 1. Clone the Repository
+
+git clone https://github.com/anamikaa0818-hash/Handwritten-Digit-Recognition-Using-HOG-Pixel-Intensity-and-SVM.git
+
+2. Navigate to the Project Directory
+cd Handwritten-Digit-Recognition-Using-HOG-Pixel-Intensity-and-SVM
+
+4. Install Required Dependencies
+
+Ensure Python (version 3.8 or above) is installed. Then install the required libraries:
+
+pip install -r requirements.txt
+
+4. Run the Streamlit Application
+
+streamlit run streamlit_app/app.py
+5. Open the Application in Browser
+
+After running the command, the application will automatically open in your default browser.
+If it does not open, manually visit:
+
+http://localhost:8501
+
  app deployed : https://handwritten-digit-recognition-duk.streamlit.app/
